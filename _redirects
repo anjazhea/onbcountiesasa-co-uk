@@ -1,3 +1,4 @@
 /index.php / 301
-/luckywave-gb/* /luckywave-casino-gb/:splat 301
-/united-kingdom-gb/* /luckywave-casino-gb/:splat 301
+/luckywave-casino-gb/* /lucky-wave-gb/:splat 301
+/luckywave-gb/* /lucky-wave-gb/:splat 301
+/united-kingdom-gb/* /lucky-wave-gb/:splat 301
